@@ -1,2 +1,3 @@
 # cpp-guessing-game
-just practice/learning w c++
+> - it compiles so idk what else you could ask for
+> xd
